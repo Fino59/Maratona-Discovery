@@ -15,7 +15,7 @@ Gostaria de agradecer ao Mayk Brito e toda equipe do Rocketseat pelas aulas e to
 
 # Maratona-Discovery
 
-[Acces here the aplication](https://fino59.github.io/Maratona-Discovery/)
+[Access the application here](https://fino59.github.io/Maratona-Discovery/)
 
 ## Project build utilizing JS, HTML e CSS in the Discovery Marathon from [Rocketseat](https://rocketseat.com.br/).
 
